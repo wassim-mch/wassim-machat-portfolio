@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "title": "Wassim Machat — Full Stack Developer",
+    "description": "Full Stack Developer specializing in SaaS, CRM and ERP. Based in Algeria."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "hireMe": "Hire Me"
+  },
+  "hero": {
+    "badge": "Available for new projects",
+    "role": "Full Stack Developer",
+    "taglinePrefix": "Building Modern",
+    "taglineHighlight1": "Web and Mobile Applications",
+    "taglineConnector": "&",
+    "taglineHighlight2": "Tech Solutions",
+    "description": "I design and develop scalable digital products that help businesses grow through technology — from concept to production.",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me",
+    "downloadCv": "Download CV",
+    "scroll": "Scroll",
+    "stats": {
+      "experience": "Years Experience",
+      "projects": "Projects Delivered",
+      "satisfaction": "Client Satisfaction"
+    }
+  },
+  "about": {
+    "label": "About Me",
+    "headingPrefix": "Turning Complex Ideas Into",
+    "headingHighlight": "Powerful Digital Products",
+    "paragraph1": "I'm Wassim Machat, a Full Stack Developer based in Algeria with a passion for building digital products that actually solve real business problems — not just look good in a portfolio.",
+    "paragraph2": "Since starting freelance in 2024, I've focused on delivering scalable SaaS applications, CRM systems and ERPs. My approach is simple: understand the business deeply, then build software that fits it like a glove.",
+    "languages": {
+      "french": "French",
+      "arabic": "Arabic",
+      "english": "English"
+    },
+    "codeSnippet": {
+      "name": "Wassim Machat",
+      "role": "Full Stack Dev",
+      "location": "Algeria 🇩🇿",
+      "focus": "Web Applications"
+    },
+    "openToProjects": "Currently open to new projects",
+    "values": {
+      "cleanCode": {
+        "title": "Clean Code",
+        "desc": "Every line is intentional, readable and maintainable by future developers."
+      },
+      "scalableSystems": {
+        "title": "Scalable Systems",
+        "desc": "Built with growth in mind — from 10 users to 100,000."
+      },
+      "userCentric": {
+        "title": "User-Centric",
+        "desc": "Great software earns trust through thoughtful, intuitive design."
+      }
+    }
+  },
+  "skills": {
+    "label": "Technical Stack",
+    "headingPrefix": "Tools I Build",
+    "headingHighlight": "With Daily"
+  },
+  "services": {
+    "label": "What I Do",
+    "headingPrefix": "Services Built for",
+    "headingHighlight": "Business Growth",
+    "ecommerce": {
+      "title": "E-commerce",
+      "desc": "Conversion-optimized online stores and marketplace solutions."
+    },
+    "webApps": {
+      "title": "Web Applications",
+      "desc": "Modern, high-performance web apps built with the latest technologies."
+    },
+    "mobileApp": {
+      "title": "Mobile Application",
+      "desc": "Cross-platform mobile apps built with Flutter and native Kotlin for Android."
+    },
+    "saas": {
+      "title": "SaaS Development",
+      "desc": "End-to-end scalable software platforms built for growth, from MVP to enterprise-grade."
+    },
+    "crm": {
+      "title": "CRM Development",
+      "desc": "Custom CRM systems that streamline your sales pipeline and customer relationships."
+    },
+    "erp": {
+      "title": "ERP Systems",
+      "desc": "Comprehensive enterprise resource planning solutions tailored to your operations."
+    },
+    "api": {
+      "title": "API Development",
+      "desc": "Robust, secure RESTful APIs that power your digital ecosystem."
+    },
+    "businessManagement": {
+      "title": "Business Management",
+      "desc": "Custom digital tools that replace spreadsheets and automate workflows."
+    }
+  },
+  "projects": {
+    "label": "Featured Work",
+    "headingPrefix": "Projects That",
+    "headingHighlight": "Drive Results",
+    "projectLabel": "Project {id}",
+    "visitProject": "Visit Project",
+    "learnMore": "Learn more",
+    "backToProjects": "Back to projects",
+    "aboutThisProject": "About this project",
+    "keyFeatures": "Key features",
+    "builtWith": "Built with",
+    "goToPage": "Go to projects page {page}"
+  },
+  "projectsData": {
+    "rahmaniAkram": {
+      "title": "Rahmani Akram",
+      "subtitle": "Filmmaker Portfolio",
+      "desc": "An immersive digital portfolio showcasing the audiovisual work and artistic universe of filmmaker Rahmani Akram.",
+      "longDesc": "An immersive digital portfolio designed to showcase the audiovisual work, projects and artistic universe of Rahmani Akram. The interface emphasizes fluid animations, intuitive navigation and a modern user experience to highlight his work to potential clients and collaborators. The project was built with Laravel, React.js, MySQL and Tailwind CSS, respecting the client's visual identity and ensuring responsive compatibility across all devices.",
+      "features": [
+        "Fluid scroll animations",
+        "Immersive visual storytelling",
+        "Custom brand identity",
+        "Fully responsive layout"
+      ]
+    },
+    "attafani": {
+      "title": "Attafani",
+      "subtitle": "Travel Booking Platform",
+      "desc": "A complete travel booking web app for flights, hotels, bus trips and organized tours for the Attafani travel agency.",
+      "longDesc": "A complete web platform dedicated to managing the travel services of the Attafani agency. The application enables the presentation and booking of flights, hotels, bus trips and organized tours, while facilitating the management of offers and customer requests. Built with Laravel, React.js, MySQL and Tailwind CSS, the solution is fully responsive and respects the agency's brand guidelines to deliver an optimal user experience.",
+      "features": [
+        "Flight & hotel booking",
+        "Bus & organized tours",
+        "Offer management dashboard",
+        "Fully responsive design"
+      ]
+    },
+    "activeBuild": {
+      "title": "Active Build",
+      "subtitle": "Showcase & Order Management",
+      "desc": "A showcase and order management web app presenting services, achievements and products with a full order tracking system.",
+      "longDesc": "A showcase and order management web application for Active Build, presenting its services, achievements and products while integrating a complete order management system. The application gives clients the ability to browse the various services offered, request quotes or place orders, and track their progress. The project was built with Laravel, React.js, MySQL and Tailwind CSS, ensuring a responsive interface aligned with the client's brand guidelines.",
+      "features": [
+        "Quote & order requests",
+        "Order tracking system",
+        "Services & portfolio showcase",
+        "Fully responsive design"
+      ]
+    },
+    "mumAndMe": {
+      "title": "Mum & Me",
+      "subtitle": "Beauty Institute & Booking",
+      "desc": "A modern showcase and booking website for a beauty institute specialized in mothers and children care.",
+      "longDesc": "A modern website designed to showcase the services of a beauty institute specialized in care for mothers and children. The platform allows visitors to discover the services offered, check establishment information, and make online bookings in a simple and intuitive way. Built with Laravel, React.js, MySQL and Tailwind CSS, the project ensures a responsive, elegant interface perfectly aligned with the institute's brand guidelines.",
+      "features": [
+        "Online booking system",
+        "Service catalog showcase",
+        "Elegant brand-aligned UI",
+        "Mobile-first experience"
+      ]
+    },
+    "buildriseStudio": {
+      "title": "Buildrise Studio",
+      "subtitle": "Agency Showcase Website",
+      "desc": "A professional showcase website highlighting the services, work and visual identity of the Buildrise Studio agency.",
+      "longDesc": "A professional website created to highlight the services, achievements and visual identity of Buildrise Studio. The platform presents the company's various areas of expertise, makes it easy for prospects to get in touch, and strengthens its online presence through a modern, responsive and optimized interface. The project was built with Laravel, React.js, MySQL and Tailwind CSS, respecting the agency's brand guidelines.",
+      "features": [
+        "Agency expertise showcase",
+        "Lead contact funnel",
+        "Modern responsive interface",
+        "SEO-optimized pages"
+      ]
+    },
+    "brefcalc": {
+      "title": "BrefCalc",
+      "subtitle": "Refrigeration Calculation App",
+      "desc": "An Android mobile app for calculating refrigeration cooling load balance, built with Flutter.",
+      "longDesc": "An Android app for calculating refrigeration cooling load balance, designed for technicians and refrigeration professionals to quickly estimate the cooling needs of an installation. Built with Flutter to provide a smooth native experience on Android, with a clear interface designed for fast use in the field.",
+      "features": [
+        "Cooling load calculation",
+        "Field-ready mobile UI",
+        "Native Android performance",
+        "Built with Flutter"
+      ]
+    }
+  },
+  "experience": {
+    "label": "Background",
+    "headingPrefix": "Experience &",
+    "headingHighlight": "Education",
+    "workExperience": "Work Experience",
+    "education": "Education",
+    "job": {
+      "title": "Freelance Full Stack Developer",
+      "company": "Self-Employed",
+      "period": "2024 – Present",
+      "desc": "Building custom SaaS applications, CRM systems and ERP solutions for clients across Algeria and internationally.",
+      "tags": ["Laravel", "Next.js", "React", "MySQL"]
+    },
+    "degree": {
+      "title": "Technicien Supérieur en Développement Web et Mobile",
+      "location": "Algeria",
+      "desc": "Advanced technical diploma in full-stack web and mobile development, covering modern frameworks, databases, and software engineering principles.",
+      "tags": ["Web Development", "Mobile Apps", "Databases", "Software Engineering"]
+    }
+  },
+  "process": {
+    "label": "How I Work",
+    "headingPrefix": "From Idea to",
+    "headingHighlight": "Launch",
+    "subtitle": "A clear, repeatable process that keeps projects on track and clients confident.",
+    "discovery": {
+      "title": "Discovery",
+      "desc": "Deep dive into your goals, users and technical requirements."
+    },
+    "planning": {
+      "title": "Planning",
+      "desc": "Architecture design, timeline and milestone planning."
+    },
+    "design": {
+      "title": "Design",
+      "desc": "UI/UX prototypes and visual system creation."
+    },
+    "development": {
+      "title": "Development",
+      "desc": "Clean, scalable code built with best practices."
+    },
+    "testing": {
+      "title": "Testing",
+      "desc": "QA, performance audits and cross-device testing."
+    },
+    "launch": {
+      "title": "Launch",
+      "desc": "Deployment, monitoring and post-launch support."
+    }
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "headingPrefix": "What Clients",
+    "headingHighlight": "Say"
+  },
+  "testimonialsData": {
+    "ahmedBenali": {
+      "text": "Wassim transformed our idea into a modern and scalable platform. The quality of his code and eye for design is exceptional.",
+      "role": "Startup Founder"
+    },
+    "sarahM": {
+      "text": "Excellent communication and technical expertise. He delivered the CRM exactly as we envisioned, on time and within budget.",
+      "role": "Operations Manager"
+    },
+    "karimHadj": {
+      "text": "Professional, reliable and highly skilled. Wassim understood our business needs and built something truly powerful.",
+      "role": "CEO, TechDZ"
+    }
+  },
+  "contact": {
+    "label": "Get In Touch",
+    "headingPrefix": "Let's Build Something",
+    "headingHighlight": "Amazing",
+    "subtitle": "Have a project in mind or just want to say hello? I'd love to hear from you.",
+    "emailLabel": "Email",
+    "locationLabel": "Location",
+    "location": "Algeria 🇩🇿",
+    "findMeOn": "Find me on",
+    "available": "Available for projects",
+    "responseTime": "I typically respond within 24 hours. Looking forward to hearing about your project.",
+    "messageSent": "Message Sent!",
+    "thankYou": "Thank you for reaching out. I'll get back to you shortly.",
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@company.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "Project Inquiry",
+      "message": "Message",
+      "messagePlaceholder": "Tell me about your project...",
+      "sending": "Sending...",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "role": "Full Stack Developer — Algeria",
+    "backToTop": "Back to top",
+    "copyright": "© {year} Wassim Machat. Designed & built with ❤️ in Algeria."
+  },
+  "preloader": {
+    "loading": "Loading Portfolio"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "title": "Wassim Machat — Développeur Full Stack",
+    "description": "Développeur Full Stack spécialisé en SaaS, CRM et ERP. Basé en Algérie."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "services": "Services",
+    "projects": "Projets",
+    "contact": "Contact",
+    "hireMe": "Me Contacter"
+  },
+  "hero": {
+    "badge": "Disponible pour de nouveaux projets",
+    "role": "Développeur Full Stack",
+    "taglinePrefix": "Créateur d'",
+    "taglineHighlight1": "Applications Web et Mobile",
+    "taglineConnector": "et de",
+    "taglineHighlight2": "Solutions Technologiques",
+    "description": "Je conçois et développe des produits numériques évolutifs qui aident les entreprises à se développer grâce à la technologie — du concept à la mise en production.",
+    "viewProjects": "Voir les Projets",
+    "contactMe": "Me Contacter",
+    "downloadCv": "Télécharger CV",
+    "scroll": "Défiler",
+    "stats": {
+      "experience": "Ans d'Expérience",
+      "projects": "Projets Réalisés",
+      "satisfaction": "Satisfaction Client"
+    }
+  },
+  "about": {
+    "label": "À Propos de Moi",
+    "headingPrefix": "Transformer des Idées Complexes en",
+    "headingHighlight": "Produits Numériques Puissants",
+    "paragraph1": "Je suis Wassim Machat, Développeur Full Stack basé en Algérie, passionné par la création de produits numériques qui résolvent réellement des problèmes métier — pas seulement de belles vitrines pour un portfolio.",
+    "paragraph2": "Depuis mes débuts en freelance en 2024, je me concentre sur la livraison d'applications SaaS évolutives, de systèmes CRM et d'ERP. Mon approche est simple : comprendre le métier en profondeur, puis construire un logiciel qui s'y adapte parfaitement.",
+    "languages": {
+      "french": "Français",
+      "arabic": "Arabe",
+      "english": "Anglais"
+    },
+    "codeSnippet": {
+      "name": "Wassim Machat",
+      "role": "Développeur Full Stack",
+      "location": "Algérie 🇩🇿",
+      "focus": "Applications Web "
+    },
+    "openToProjects": "Actuellement disponible pour de nouveaux projets",
+    "values": {
+      "cleanCode": {
+        "title": "Code Propre",
+        "desc": "Chaque ligne est intentionnelle, lisible et maintenable par les futurs développeurs."
+      },
+      "scalableSystems": {
+        "title": "Systèmes Évolutifs",
+        "desc": "Conçus pour grandir — de 10 utilisateurs à 100 000."
+      },
+      "userCentric": {
+        "title": "Centré Utilisateur",
+        "desc": "Un bon logiciel gagne la confiance grâce à un design réfléchi et intuitif."
+      }
+    }
+  },
+  "skills": {
+    "label": "Stack Technique",
+    "headingPrefix": "Outils que J'utilise",
+    "headingHighlight": "Quotidiennement"
+  },
+  "services": {
+    "label": "Ce Que Je Fais",
+    "headingPrefix": "Des Services Pensés pour la",
+    "headingHighlight": "Croissance de Votre Entreprise",
+    "ecommerce": {
+      "title": "E-commerce",
+      "desc": "Boutiques en ligne et solutions de marketplace optimisées pour la conversion."
+    },
+    "webApps": {
+      "title": "Applications Web",
+      "desc": "Applications web modernes et performantes, construites avec les dernières technologies."
+    },
+    "mobileApp": {
+      "title": "Application Mobile",
+      "desc": "Applications mobiles multiplateformes développées avec Flutter et Kotlin natif pour Android."
+    },
+    "saas": {
+      "title": "Développement SaaS",
+      "desc": "Plateformes logicielles évolutives de bout en bout, du MVP à l'échelle entreprise."
+    },
+    "crm": {
+      "title": "Développement CRM",
+      "desc": "Systèmes CRM sur mesure qui optimisent votre pipeline commercial et vos relations clients."
+    },
+    "erp": {
+      "title": "Systèmes ERP",
+      "desc": "Solutions complètes de planification des ressources d'entreprise adaptées à vos opérations."
+    },
+    "api": {
+      "title": "Développement d'API",
+      "desc": "API RESTful robustes et sécurisées qui alimentent votre écosystème numérique."
+    },
+    "businessManagement": {
+      "title": "Gestion d'Entreprise",
+      "desc": "Outils numériques sur mesure qui remplacent les tableurs et automatisent les flux de travail."
+    }
+  },
+  "projects": {
+    "label": "Travaux Sélectionnés",
+    "headingPrefix": "Des Projets qui",
+    "headingHighlight": "Génèrent des Résultats",
+    "projectLabel": "Projet {id}",
+    "visitProject": "Voir le Projet",
+    "learnMore": "En Savoir Plus",
+    "backToProjects": "Retour aux projets",
+    "aboutThisProject": "À Propos de ce Projet",
+    "keyFeatures": "Fonctionnalités Clés",
+    "builtWith": "Construit Avec",
+    "goToPage": "Aller à la page {page} des projets"
+  },
+  "projectsData": {
+    "rahmaniAkram": {
+      "title": "Rahmani Akram",
+      "subtitle": "Portfolio de Réalisateur",
+      "desc": "Un portfolio numérique immersif présentant le travail audiovisuel et l'univers artistique du réalisateur Rahmani Akram.",
+      "longDesc": "Conception d'un portfolio numérique immersif permettant de présenter les réalisations audiovisuelles, les projets et l'univers artistique de Rahmani Akram. L'interface met l'accent sur des animations fluides, une navigation intuitive et une expérience utilisateur moderne afin de valoriser son travail auprès de clients et collaborateurs potentiels. Le projet a été développé avec Laravel, React.js, MySQL et Tailwind CSS, tout en respectant l'identité visuelle du client et en assurant une compatibilité responsive sur tous les appareils.",
+      "features": [
+        "Animations fluides au défilement",
+        "Narration visuelle immersive",
+        "Identité de marque personnalisée",
+        "Mise en page entièrement responsive"
+      ]
+    },
+    "attafani": {
+      "title": "Attafani",
+      "subtitle": "Plateforme de Réservation de Voyages",
+      "desc": "Une application web complète de réservation de voyages pour vols, hôtels, trajets en bus et voyages organisés pour l'agence Attafani.",
+      "longDesc": "Réalisation d'une plateforme web complète dédiée à la gestion des services de voyage de l'agence Attafani. L'application permet la présentation et la réservation de vols, d'hôtels, de voyages en bus ainsi que de voyages organisés, tout en facilitant la gestion des offres et des demandes clients. Développée avec Laravel, React.js, MySQL et Tailwind CSS, la solution est entièrement responsive et respecte la charte graphique de l'agence afin d'offrir une expérience utilisateur optimale.",
+      "features": [
+        "Réservation de vols et d'hôtels",
+        "Voyages en bus et organisés",
+        "Tableau de gestion des offres",
+        "Design entièrement responsive"
+      ]
+    },
+    "activeBuild": {
+      "title": "Active Build",
+      "subtitle": "Vitrine & Gestion des Commandes",
+      "desc": "Une application web vitrine et de gestion des commandes présentant services, réalisations et produits avec un système complet de suivi des commandes.",
+      "longDesc": "Application web vitrine et de gestion des commandes pour Active Build, présentant ses services, ses réalisations et ses produits tout en intégrant un système complet de gestion des commandes. L'application offre aux clients la possibilité de consulter les différentes prestations, d'effectuer des demandes de devis ou de commandes et de suivre leur traitement. Le projet a été réalisé avec Laravel, React.js, MySQL et Tailwind CSS, en garantissant une interface responsive et conforme à la charte graphique du client.",
+      "features": [
+        "Demandes de devis et de commandes",
+        "Système de suivi des commandes",
+        "Vitrine des services et réalisations",
+        "Design entièrement responsive"
+      ]
+    },
+    "mumAndMe": {
+      "title": "Mum & Me",
+      "subtitle": "Institut de Beauté & Réservation",
+      "desc": "Un site web vitrine et de réservation moderne pour un institut de beauté spécialisé pour les mamans et les enfants.",
+      "longDesc": "Conception d'un site web moderne dédié à la présentation des services de l'institut de beauté spécialisé pour les mamans et les enfants. La plateforme permet aux visiteurs de découvrir les prestations proposées, de consulter les informations de l'établissement et d'effectuer des réservations en ligne de manière simple et intuitive. Développé avec Laravel, React.js, MySQL et Tailwind CSS, le projet garantit une interface responsive, élégante et parfaitement alignée avec la charte graphique de l'institut.",
+      "features": [
+        "Système de réservation en ligne",
+        "Vitrine du catalogue de services",
+        "Interface élégante alignée à la marque",
+        "Expérience mobile-first"
+      ]
+    },
+    "buildriseStudio": {
+      "title": "Buildrise Studio",
+      "subtitle": "Site Vitrine d'Agence",
+      "desc": "Un site web vitrine professionnel mettant en valeur les services, réalisations et l'identité visuelle de l'agence Buildrise Studio.",
+      "longDesc": "Création d'un site web professionnel destiné à mettre en valeur les services, les réalisations et l'identité visuelle de Buildrise Studio. La plateforme présente les différents domaines d'expertise de l'entreprise, facilite la prise de contact avec les prospects et renforce sa présence en ligne grâce à une interface moderne, responsive et optimisée. Le projet a été développé avec Laravel, React.js, MySQL et Tailwind CSS, dans le respect de la charte graphique de l'agence.",
+      "features": [
+        "Vitrine de l'expertise de l'agence",
+        "Tunnel de contact prospects",
+        "Interface moderne et responsive",
+        "Pages optimisées pour le SEO"
+      ]
+    },
+    "brefcalc": {
+      "title": "BrefCalc",
+      "subtitle": "Application de Calcul Frigorifique",
+      "desc": "Une application mobile Android pour le calcul du bilan frigorifique, développée avec Flutter.",
+      "longDesc": "Application Android de calcul de bilan frigorifique, destinée aux techniciens et professionnels du froid pour estimer rapidement les besoins de réfrigération d'une installation. Développée avec Flutter pour offrir une expérience native fluide sur Android, avec une interface claire pensée pour un usage rapide sur le terrain.",
+      "features": [
+        "Calcul du bilan frigorifique",
+        "Interface mobile adaptée au terrain",
+        "Performance native Android",
+        "Développée avec Flutter"
+      ]
+    }
+  },
+  "experience": {
+    "label": "Parcours",
+    "headingPrefix": "Expérience &",
+    "headingHighlight": "Formation",
+    "workExperience": "Expérience Professionnelle",
+    "education": "Formation",
+    "job": {
+      "title": "Développeur Full Stack Freelance",
+      "company": "Indépendant",
+      "period": "2024 – Aujourd'hui",
+      "desc": "Conception d'applications SaaS sur mesure, de systèmes CRM et de solutions ERP pour des clients en Algérie et à l'international.",
+      "tags": ["Laravel", "Next.js", "React", "MySQL"]
+    },
+    "degree": {
+      "title": "Technicien Supérieur en Développement Web et Mobile",
+      "location": "Algérie",
+      "desc": "Diplôme technique avancé en développement web et mobile full-stack, couvrant les frameworks modernes, les bases de données et les principes du génie logiciel.",
+      "tags": ["Développement Web", "Applications Mobiles", "Bases de Données", "Génie Logiciel"]
+    }
+  },
+  "process": {
+    "label": "Comment Je Travaille",
+    "headingPrefix": "De l'Idée au",
+    "headingHighlight": "Lancement",
+    "subtitle": "Un processus clair et reproductible qui garde les projets sur la bonne voie et les clients confiants.",
+    "discovery": {
+      "title": "Découverte",
+      "desc": "Analyse approfondie de vos objectifs, utilisateurs et besoins techniques."
+    },
+    "planning": {
+      "title": "Planification",
+      "desc": "Conception de l'architecture, planning et jalons du projet."
+    },
+    "design": {
+      "title": "Design",
+      "desc": "Prototypes UI/UX et création du système visuel."
+    },
+    "development": {
+      "title": "Développement",
+      "desc": "Code propre et évolutif, construit selon les meilleures pratiques."
+    },
+    "testing": {
+      "title": "Tests",
+      "desc": "QA, audits de performance et tests multi-appareils."
+    },
+    "launch": {
+      "title": "Lancement",
+      "desc": "Déploiement, supervision et accompagnement post-lancement."
+    }
+  },
+  "testimonials": {
+    "label": "Témoignages",
+    "headingPrefix": "Ce Que Disent",
+    "headingHighlight": "Mes Clients"
+  },
+  "testimonialsData": {
+    "ahmedBenali": {
+      "text": "Wassim a transformé notre idée en une plateforme moderne et évolutive. La qualité de son code et son sens du design sont exceptionnels.",
+      "role": "Fondateur de Startup"
+    },
+    "sarahM": {
+      "text": "Excellente communication et expertise technique. Il a livré le CRM exactement comme nous l'envisagions, dans les délais et le budget prévus.",
+      "role": "Responsable des Opérations"
+    },
+    "karimHadj": {
+      "text": "Professionnel, fiable et très compétent. Wassim a compris nos besoins métier et a construit quelque chose de vraiment puissant.",
+      "role": "PDG, TechDZ"
+    }
+  },
+  "contact": {
+    "label": "Contactez-Moi",
+    "headingPrefix": "Construisons Quelque Chose",
+    "headingHighlight": "d'Incroyable",
+    "subtitle": "Vous avez un projet en tête ou voulez simplement dire bonjour ? J'aimerais avoir de vos nouvelles.",
+    "emailLabel": "Email",
+    "locationLabel": "Localisation",
+    "location": "Algérie 🇩🇿",
+    "findMeOn": "Retrouvez-moi sur",
+    "available": "Disponible pour des projets",
+    "responseTime": "Je réponds généralement dans les 24 heures. J'attends avec impatience d'en savoir plus sur votre projet.",
+    "messageSent": "Message Envoyé !",
+    "thankYou": "Merci de m'avoir contacté. Je vous répondrai très prochainement.",
+    "form": {
+      "name": "Votre Nom",
+      "namePlaceholder": "Jean Dupont",
+      "email": "Adresse Email",
+      "emailPlaceholder": "jean@entreprise.com",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Demande de Projet",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-moi de votre projet...",
+      "sending": "Envoi en cours...",
+      "send": "Envoyer le Message"
+    }
+  },
+  "footer": {
+    "role": "Développeur Full Stack — Algérie",
+    "backToTop": "Retour en haut",
+    "copyright": "© {year} Wassim Machat. Conçu et développé avec ❤️ en Algérie."
+  },
+  "preloader": {
+    "loading": "Chargement du Portfolio"
+  }
+}

@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #050505;
+  --color-surface: #0f0f0f;
+  --color-primary: #ffffff;
+  --color-secondary: #a1a1aa;
+  --color-accent: #60a5fa;
+  --color-border: rgba(255,255,255,0.08);
+  --color-glow: rgba(96,165,250,0.25);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  scroll-behavior: smooth;
+  background: #050505;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: #050505;
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+  max-width: 100%;
+  cursor: none;
+}
+
+::-webkit-scrollbar { width: 3px; }
+::-webkit-scrollbar-track { background: #050505; }
+::-webkit-scrollbar-thumb { background: #60a5fa; border-radius: 2px; }
+
+.cursor-dot {
+  width: 8px; height: 8px;
+  background: #60a5fa;
+  border-radius: 50%;
+  position: fixed; top: 0; left: 0;
+  pointer-events: none; z-index: 9999;
+  transform: translate(-50%, -50%);
+}
+
+.cursor-ring {
+  width: 36px; height: 36px;
+  border: 1.5px solid rgba(96,165,250,0.5);
+  border-radius: 50%;
+  position: fixed; top: 0; left: 0;
+  pointer-events: none; z-index: 9998;
+  transform: translate(-50%, -50%);
+}
+
+.glass {
+  background: rgba(15,15,15,0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #ffffff 0%, #60a5fa 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(96,165,250,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(96,165,250,0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+}
+
+/* ===== MARQUEE: fix — il manquait width:max-content et l'animation ===== */
+.marquee-wrap {
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  flex-wrap: nowrap;
+  will-change: transform;
+  animation: marquee 25s linear infinite;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track {
+    animation: none;
+  }
+}
+
+body.loading { overflow: hidden; }
+
+.clip-hidden { clip-path: inset(0 100% 0 0); }
+
+@layer utilities {
+  .text-secondary { color: #a1a1aa; }
+  .text-accent { color: #60a5fa; }
+  .bg-surface { background: #0f0f0f; }
+  .border-subtle { border-color: rgba(255,255,255,0.08); }
+}
